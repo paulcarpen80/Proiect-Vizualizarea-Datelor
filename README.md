@@ -1,2 +1,2 @@
 # Proiect-Vizualizarea-Datelor
-Proiect din anul I de Masterat
+Project presented during the first year of my Master's degree. 
